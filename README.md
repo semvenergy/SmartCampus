@@ -8,6 +8,8 @@
 - інформаційні повідомлення;
 - моніторинг параметрів мікроклімату.
 
+![image](https://github.com/user-attachments/assets/382ec1c4-feb8-41a9-89f5-aa9a898c38f8)
+
 Довідкові матеріали:
 - Home Assistant https://www.home-assistant.io/
 - ESPHome https://esphome.io/
